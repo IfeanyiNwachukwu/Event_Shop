@@ -1,3 +1,4 @@
-h1{
-    color: blue;
-}
+@use "../general-styles/colors" as clrs;
+@use "../general-styles/padding" as pad;
+@use "../general-styles/typography" as type;
+
